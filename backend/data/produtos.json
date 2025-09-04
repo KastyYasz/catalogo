@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "nome": "Máscara Fofão E.v.a Infantil Peruca Curta Vermelha",
+    "preco": 120.0,
+    "descricao": "Máscara do personagem Fofão, produzida em E.V.A (leve e resistente), com peruca curta vermelha integrada. Indicada para fantasias, eventos e colecionadores que buscam um visual clássico e marcante.",
+    "imagens": [
+      "http://localhost:3000/images/FofaoEvaCurtoVermelho/1.jpg",
+      "http://localhost:3000/images/FofaoEvaCurtoVermelho/2.jpg",
+      "http://localhost:3000/images/FofaoEvaCurtoVermelho/3.png"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Máscara Fofão Média Fibra Peruca Curta Vermelha",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo médio com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante.",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofaoMediaFibraCurto/1.jpg",
+      "http://localhost:3000/images/MascaraFofaoMediaFibraCurto/2.jpg",
+      "http://localhost:3000/images/MascaraFofaoMediaFibraCurto/3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Máscara Fofão Grande Fibra Peruca Curta Vermelha",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo Grande com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofaoGrandeFibraCurto/1.jpg",
+      "http://localhost:3000/images/MascaraFofaoGrandeFibraCurto/2.jpg",
+      "http://localhost:3000/images/MascaraFofaoGrandeFibraCurto/3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Máscara Fofão Pequena Fibra Peruca Curta Vermelha",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo Pequeno com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofaoPequenaFibraCurto/1.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Máscara Fofão Fechada Adulto Peruca Longo Vermelho",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo Fechado com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofaoFechadaVermelhoAdulto/1.jpg",
+      "http://localhost:3000/images/MascaraFofaoFechadaVermelhoAdulto/2.jpg",
+      "http://localhost:3000/images/MascaraFofaoFechadaVermelhoAdulto/3.jpg",
+      "http://localhost:3000/images/MascaraFofaoFechadaVermelhoAdulto/4.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Máscara Fofão Fechada Adulto Peruca Longo Vinho",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo Fechado com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofaoFechadaAdultoVinho/1.jpg",
+      "http://localhost:3000/images/MascaraFofaoFechadaAdultoVinho/2.png",
+      "http://localhost:3000/images/MascaraFofaoFechadaAdultoVinho/3.jpg"
+    ]
+  },
+    {
+    "id": 7,
+    "nome": "Máscara Fofona Fechada Adulto Peruca Longo Rosa",
+    "preco": 120.0,
+    "descricao": "Máscara temática do personagem Fofão, confeccionada em fibra para maior resistência e durabilidade. Modelo Fechado com revestimento interno em espuma, acabamento detalhado e cabelo curto. Ideal para fantasias, eventos, festas e colecionadores que procuram um item fiel e marcante",
+    "imagens": [
+      "http://localhost:3000/images/MascaraFofonaFechadaAdultoLongo/1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Fantasia Fofão em E.V.A infantil Completo Azul Claro",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã.",
+    "imagens": [
+      "http://localhost:3000/images/FantasiaFofaoAzulInfantilEva/1.jpg",
+      "http://localhost:3000/images/FantasiaFofaoAzulInfantilEva/2.jpg",
+      "http://localhost:3000/images/FantasiaFofaoAzulInfantilEva/3.jpg",
+      "http://localhost:3000/images/FantasiaFofaoAzulInfantilEva/4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Máscara Fofão em E.V.A Infantil Completo Vermelho",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã.",
+    "imagens": [
+      "http://localhost:3000/images/FantasiaFofaoEvaCurtoVermelhoCompleto/1.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCurtoVermelhoCompleto/2.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCurtoVermelhoCompleto/3.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCurtoVermelhoCompleto/4.png"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Máscara Fofão em E.V.A Infantil Completo Marrom Claro",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã",
+    "imagens": [
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaInfantilmarrom/1.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaInfantilmarrom/2.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaInfantilmarrom/3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Máscara Fofona em E.V.A Infantil Completo Rosa",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã",
+    "imagens": [
+      "http://localhost:3000/images/FantasiaFofonaCompletaInfantilEva/1.jpg",
+      "http://localhost:3000/images/FantasiaFofonaCompletaInfantilEva/2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Máscara Fofona em E.V.A Infantil Completo Vinho",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã",
+    "imagens": [
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaVinhoInfantil/1.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaVinhoInfantil/2.jpg",
+      "http://localhost:3000/images/FantasiaFofaoEvaCompletaVinhoInfantil/3.jpg"
+    ]
+  }
+  ,
+  {
+    "id": 13,
+    "nome": "Máscaras Palhaço Em Fibra Adulto (Sortidos)",
+    "preco": 120.0,
+    "descricao": "Máscara para fantasia e eventos. As imagens do carrossel são apenas exemplos: não repetimos estampas. Cada unidade é única, com pintura e cor do cabelo aleatórias. O envio é sortido dentro desse padrão.",
+    "imagens": [
+      "http://localhost:3000/images/MascaraPalhacoAdulto/1.jpg",
+      "http://localhost:3000/images/MascaraPalhacoAdulto/2.jpg",
+      "http://localhost:3000/images/MascaraPalhacoAdulto/3.jpg",
+      "http://localhost:3000/images/MascaraPalhacoAdulto/4.jpg",
+      "http://localhost:3000/images/MascaraPalhacoAdulto/5.jpg",
+      "http://localhost:3000/images/MascaraPalhacoAdulto/6.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Máscara Fofão E.V.A S/Peruca Infantil",
+    "preco": 120.0,
+    "descricao": "Fantasia do Fofão infantil completa. Acompanha máscara com rosto do personagem e peruca de lã, camiseta de manga longa, macacão com a letra “F” no peito e “FOFÃO” escrito na perna, além de luvas e pantufas de lã",
+    "imagens": [
+      "http://localhost:3000/images/fofaoEvaSCabelo/1.jpeg"
+    ]
+  }
+  
+]

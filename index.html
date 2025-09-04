@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Palhaçaria&Cia</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+
+  <!-- Header -->
+  <header class="bg-white shadow p-4 flex items-center justify-between sticky top-0 z-10">
+  <div class="flex items-center gap-3">
+    <img src="http://localhost:3000/logo/logo.png" alt="Palhaçaria & Cia" class="h-12">
+    <h1 class="text-2xl font-bold">Catálogo Palhaçaria & Cia</h1>
+  </div>
+
+  <div class="flex items-center gap-2">
+    <input id="search-input" type="text" placeholder="Buscar..."
+      class="w-full max-w-xs border rounded-lg px-3 py-2 focus:outline-none focus:ring focus:ring-blue-300">
+    <button id="cart-button" class="rounded-lg border px-3 py-2 hover:bg-gray-50">
+      Carrinho (<span id="cart-count">0</span>)
+    </button>
+  </div>
+</header>
+
+
+  <!-- Produtos -->
+  <main class="p-6 pt-8">
+    <div class="max-w-6xl mx-auto">
+      <div id="product-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- JS injeta cards aqui -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Modal de Checkout -->
+  <div id="cart-modal-overlay" class="fixed inset-0 bg-black/50 hidden grid place-items-center">
+    <div id="cart-modal" class="bg-white w-full max-w-lg rounded-xl shadow-lg p-6">
+      <div class="flex items-center justify-between mb-4">
+        <h3 class="text-xl font-semibold">Seu pedido</h3>
+        <button id="close-cart-modal" class="text-gray-500 hover:text-black" aria-label="Fechar">✕</button>
+      </div>
+
+      <ul id="modal-cart-items" class="space-y-2 mb-4"></ul>
+
+      <div class="flex items-center justify-between mb-4">
+        <span class="font-medium">Subtotal</span>
+        <span id="modal-subtotal" class="font-semibold">R$ 0,00</span>
+      </div>
+
+      <div class="grid grid-cols-1 gap-3 mb-4">
+        <input id="cliente-nome" type="text" placeholder="Seu nome"
+               class="w-full border rounded-lg px-3 py-2 focus:outline-none focus:ring" />
+        <input id="cliente-cep" type="text" placeholder="CEP (ex: 12345-678)"
+               class="w-full border rounded-lg px-3 py-2 focus:outline-none focus:ring" />
+        <textarea id="cliente-nota" rows="2" placeholder="Observações (tamanho, cor, etc.)"
+               class="w-full border rounded-lg px-3 py-2 focus:outline-none focus:ring"></textarea>
+        <p id="form-error" class="text-sm text-red-600 hidden">Preencha nome e CEP válidos.</p>
+      </div>
+
+      <div class="flex gap-3">
+        <button id="keep-buying" class="flex-1 rounded-lg border px-3 py-2 hover:bg-gray-50">Continuar comprando</button>
+        <button id="finalize-whatsapp" class="flex-1 rounded-lg border px-3 py-2 hover:bg-gray-50">Fechar pedido no WhatsApp</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- App -->
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
